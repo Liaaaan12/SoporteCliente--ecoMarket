@@ -5,3 +5,5 @@ import com.EcoMarket.SoporteCliente.model.TicketSoporte;
 
 public interface TicketSoporteRepository extends JpaRepository<TicketSoporte, Long> {
 }
+
+
